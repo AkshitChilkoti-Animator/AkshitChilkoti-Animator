@@ -1,6 +1,6 @@
-# Hi there, I'm Akshit Chilkoti! 👋
+<p align="center"># Hi there, I'm Akshit Chilkoti! 👋</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
 
 ## About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
@@ -29,17 +29,18 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=google-chrome&logoColor=white)](https://akshitchilkoti.w3spaces.com)
+[![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/akshitchilkoti)
 
-## 🎨 My Projects
+<!--## 🎨 My Projects
 ### [Project 1](https://github.com/yourusername/project1)
 _A brief description of Project 1._
 
 ### [Project 2](https://github.com/yourusername/project2)
-_A brief description of Project 2._
+_A brief description of Project 2._-->
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Improved My Coding Skills](https://akshitwrite.netlify.app/posts/proxy)
+- [Convert any device into a proxy internet server!](https://akshitwrite.netlify.app/posts/proxy)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎶 Fun Facts
