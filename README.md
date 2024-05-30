@@ -30,6 +30,10 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=google-chrome&logoColor=white)](https://akshitchilkoti.w3spaces.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/akshitchilkoti)
+[![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/akshitchilktoi)
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=outlook&logoColor=white)](mailto:akshitchilkoti@outloook.com)
+
+
 
 <!--## 🎨 My Projects
 ### [Project 1](https://github.com/yourusername/project1)
