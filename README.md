@@ -1,4 +1,4 @@
-#Hi there, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Akshit+Chlkoti)](https://git.io/typing-svg)👋
+#👋 Hi there, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Akshit+Chlkoti)](https://git.io/typing-svg) 
 
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
