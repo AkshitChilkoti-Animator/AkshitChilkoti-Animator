@@ -10,7 +10,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 - 📚 Continuous learning and growth
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=Cpp)
 ![C](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
