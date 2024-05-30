@@ -1,4 +1,4 @@
-<p align="center"># Hi there, I'm Akshit Chilkoti! 👋</p>
+#<p align="center"> Hi there, I'm Akshit Chilkoti! 👋</p>
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
 
