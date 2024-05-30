@@ -1,6 +1,6 @@
 # Hi there, I'm Akshit Chilkoti! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)
 
 ## About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
