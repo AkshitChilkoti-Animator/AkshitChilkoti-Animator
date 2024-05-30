@@ -1,4 +1,4 @@
-<p align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Akshit+Chilkoti" alt="Typing SVG" /></a> </p>
+<p align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Akshit+Chilkoti;I+am+a+programmer%2C+ammature+astronomerand+ammature+rocketeer." alt="Typing SVG" /></a> </p>
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
 
