@@ -1,6 +1,6 @@
 # Hi there, I'm Akshit Chilkoti! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=cyan)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=#00FFFF)
 
 ## About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
@@ -10,7 +10,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 - 📚 Continuous learning and growth
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
 ![C](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
