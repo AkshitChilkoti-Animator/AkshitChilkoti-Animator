@@ -31,7 +31,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=google-chrome&logoColor=white)](https://akshitchilkoti.w3spaces.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/akshitchilkoti)
 [![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/akshitchilktoi)
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=outlook&logoColor=white)](mailto:akshitchilkoti@outloook.com)
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:akshitchilkoti@outloook.com)
 
 
 
