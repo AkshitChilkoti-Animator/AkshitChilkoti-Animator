@@ -39,7 +39,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=globe)](https://akshitchilkoti.w3spaces.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=firefox)](https://akshitchilkoti.w3spaces.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit)](https://www.reddit.com/user/akshitchilkoti)
 [![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree)](https://linktr.ee/akshitchilktoi)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=microsoft-outlook)](mailto:akshitchilkoti@outloook.com)
