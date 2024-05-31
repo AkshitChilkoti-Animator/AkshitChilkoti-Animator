@@ -17,7 +17,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
