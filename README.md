@@ -8,9 +8,9 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 - 🔭 Web Development
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
