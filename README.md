@@ -1,5 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-# Hi there!
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         height="45"
+         width="45" />
+</h3>
 <p align="center" <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=500&color=FFFFFF&random=false&width=1000&lines=I'm+Akshit+Chilkoti!;I+am+a+programmer%2C+ammature+astronomer+and+ammature+rocketeer." alt="Typing SVG" /></a> </p>
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
