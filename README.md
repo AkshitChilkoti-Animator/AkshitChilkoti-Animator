@@ -59,8 +59,8 @@ _A brief description of Project 2._-->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 Fun Facts
-- 🎸 I love model rocketry cosmology, astrophysics and observational astronomy... I love space!
-- 🍕 I enjoy doing all sorts of stuff in computer... from CAD to coding to animation!
+- 🚀 I love model rocketry cosmology, astrophysics and observational astronomy... I love space!
+- 🖥️ I enjoy doing all sorts of stuff in computer... from CAD to coding to animation!
 - 🌍 I enjoy traveling and exploring new places.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
