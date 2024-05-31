@@ -58,7 +58,7 @@ _A brief description of Project 2._-->
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Convert any device into a proxy internet server!](https://akshitwrite.netlify.app/posts/proxy)
+- [Convert any device into a proxy internet server!](https://akshitwrites.netlify.app/posts/proxy)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤓 Fun Facts
