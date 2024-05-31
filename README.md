@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1>
     Hi There
-    <img src="https://download1979.mediafire.com/7he2e8injkkgyeywNo6aZS3G-r11u4Oo49gDqDPGpwK0kWYKdsbqFnIHxLNCXpEsdA9YQ82NllDKSIDRw5REC5l1UG3UTv1Q0h6sssqBF1oguO5uLtH738qpUfNuAeeHqNr4wMDZkQP2wvSrglOPtBa7tpnwSOz7hsUExxPa9g/l15g3iltet0d91v/wave.gif" 
+    <img src="wave.gif" 
          height="45"
          width="45" />
 </h1>
