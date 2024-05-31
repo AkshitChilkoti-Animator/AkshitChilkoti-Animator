@@ -27,6 +27,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chilkoti&layout=compact&hide_border=true&theme=monokai)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=akshit-chilkoti&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ## 🏆 Achievements
 
