@@ -25,10 +25,12 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chilkoti&layout=compact&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chilkoti&layout=compact&hide_border=true&theme=monokai)
 
 ## 🏆 Achievements
+
+![Gihub Achivements](https://github-profile-trophy.vercel.app/?username=akshit-chilkoti&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a05957d99c9d6731a614ca?variant=dark)](https://roadmap.sh)
 <!--- 🌟 **GitHub Stars**: Received **[x stars](https://github.com/yourusername?tab=repositories)** across my projects
 - 🏅 **Top Contributor**: In **[project name](https://github.com/projectname)**
