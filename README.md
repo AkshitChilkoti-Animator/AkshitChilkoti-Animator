@@ -5,6 +5,7 @@
 ## About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
 - 🔭 Full-stack development
+- 🔭 Web Development
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=white)
@@ -14,7 +15,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chilkoti&layout=compact&hide_border=true&theme=radical)
