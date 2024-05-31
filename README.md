@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1>
     Hi There
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+    <img src="https://media1.tenor.com/m/CU-PX1m0egYAAAAC/wave-hi.gif" 
          height="45"
          width="45" />
 </h1>
