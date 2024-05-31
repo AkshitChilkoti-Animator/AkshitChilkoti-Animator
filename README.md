@@ -11,10 +11,10 @@
 
 ## About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
-- 🔭 Full-stack development
-- 🔭 Web Development
+- 💾 Full-stack development
+- 💾 Web Development
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
@@ -39,7 +39,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=firefox)](https://akshitchilkoti.w3spaces.com)
+[![Portfolio](https://img.shields.io/badge/-🌐%20Portfolio-333?style=flat)](https://akshitchilkoti.w3spaces.com)
 [![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit)](https://www.reddit.com/user/akshitchilkoti)
 [![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree)](https://linktr.ee/akshitchilktoi)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=microsoft-outlook)](mailto:akshitchilkoti@outloook.com)
@@ -53,12 +53,12 @@ _A brief description of Project 1._
 ### [Project 2](https://github.com/yourusername/project2)
 _A brief description of Project 2._-->
 
-## 📚 Latest Blog Posts
+## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Convert any device into a proxy internet server!](https://akshitwrite.netlify.app/posts/proxy)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎶 Fun Facts
+## 🔭 Fun Facts
 - 🎸 I love model rocketry cosmology, astrophysics and observational astronomy... I love space!
 - 🍕 I enjoy doing all sorts of stuff in computer... from CAD to coding to animation!
 - 🌍 I enjoy traveling and exploring new places.
