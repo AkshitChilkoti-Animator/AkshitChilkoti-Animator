@@ -65,7 +65,7 @@ _A brief description of Project 2._-->
 - 🔭 I love model rocketry, cosmology, astrophysics and observational astronomy... I love space!
 - 🖥️ I enjoy doing all sorts of stuff in computer... from CAD to coding to animation!
 - 💡 I am also good at tinkering and electronics.
-- 🌍 I enjoy traveling and exploring new places.
+- 🌏 I enjoy traveling and exploring new places.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
