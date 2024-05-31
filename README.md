@@ -9,7 +9,7 @@
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Akshit-Chilkoti&color=blueviolet)-->
 
-## About Me
+## 🙃 About Me
 I'm a passionate developer with a love for building innovative solutions. I specialize in:
 - 💾 Full-stack development
 - 💾 Web Development
@@ -58,8 +58,8 @@ _A brief description of Project 2._-->
 - [Convert any device into a proxy internet server!](https://akshitwrite.netlify.app/posts/proxy)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔭 Fun Facts
-- 🚀 I love model rocketry cosmology, astrophysics and observational astronomy... I love space!
+## 🤓 Fun Facts
+- 🔭 I love model rocketry, cosmology, astrophysics and observational astronomy... I love space!
 - 🖥️ I enjoy doing all sorts of stuff in computer... from CAD to coding to animation!
 - 🌍 I enjoy traveling and exploring new places.
 
