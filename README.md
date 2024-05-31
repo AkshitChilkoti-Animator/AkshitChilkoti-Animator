@@ -16,6 +16,7 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=bash)
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chilkoti&layout=compact&hide_border=true&theme=radical)
