@@ -30,10 +30,10 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ## 🌐 Connect with Me
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)-->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=google-chrome&logoColor=white)](https://akshitchilkoti.w3spaces.com)
-[![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/akshitchilkoti)
-[![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/akshitchilktoi)
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:akshitchilkoti@outloook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=google-chrome)](https://akshitchilkoti.w3spaces.com)
+[![Reddit](https://img.shields.io/badge/-Reddit-333?style=flat&logo=reddit)](https://www.reddit.com/user/akshitchilkoti)
+[![Linktree](https://img.shields.io/badge/-Linktree-333?style=flat&logo=linktree)](https://linktr.ee/akshitchilktoi)
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=microsoft-outlook)](mailto:akshitchilkoti@outloook.com)
 
 
 
