@@ -21,8 +21,8 @@ I'm a passionate developer with a love for building innovative solutions. I spec
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit-chilkoti&show_icons=true&hide_border=true&count_private=true&theme=monokai)
